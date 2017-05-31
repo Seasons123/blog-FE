@@ -6,3 +6,6 @@
 二、es6
 
 1、第8章 函数的扩展  https://github.com/Seasons123/blog/issues/12
+    8.2 rest函数
+    8.3 扩展运算符
+    8.5 箭头函数
