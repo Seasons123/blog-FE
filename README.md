@@ -2,7 +2,7 @@
 
  一、Object-Oriented JavaScript  
     
-      - [4.2.2 Array](https://github.com/Seasons123/blog/issues/11)
+    4.2.2 Array  https://github.com/Seasons123/blog/issues/11
 
 
 二、es6
