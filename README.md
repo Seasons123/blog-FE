@@ -1,4 +1,4 @@
-"# blog" 
+"# blog"     论文编辑器 ctext http://blog.sina.com.cn/s/blog_6647de110102uw3a.html
 
 ##  一、Object-Oriented JavaScript  
     
