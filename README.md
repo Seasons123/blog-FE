@@ -3,6 +3,7 @@
 ##  一、Object-Oriented JavaScript  
 
      其余部分的笔记见我的笔记《blue cat , I am so hungry》
+     
 4.2.2 Array  https://github.com/Seasons123/blog/issues/11
 
 4.2.3 Function https://github.com/Seasons123/blog/issues/14
