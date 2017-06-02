@@ -1,8 +1,8 @@
 "# blog"     论文编辑器 ctext http://blog.sina.com.cn/s/blog_6647de110102uw3a.html
 
-##  一、Object-Oriented JavaScript  
+##  一、Object-Oriented JavaScript       
 
-     其余部分的笔记见我的笔记《blue cat , I am so hungry》
+       其余部分的笔记见我的笔记《blue cat , I am so hungry》
      
 4.2.2 Array  https://github.com/Seasons123/blog/issues/11
 
