@@ -11,7 +11,8 @@
 4.2.6 String  https://github.com/Seasons123/blog/issues/15
 
     注意：String对象的方法，返回的都是一个新的基本字符串，它们所做的任何修改都不会改动源字符串。
-    通常情况下，我们会用indexOf()和lastIndexOf()方法进行字符串内搜索，但除此之外还有一些功能更为强大的方法（如search()、match()、replace()等），它们可以以正则表达式为参数来执行搜索任务。
+    通常情况下，我们会用indexOf()和lastIndexOf()方法进行字符串内搜索，但除此之外还有一些功能更为强大的方法（如search()、match()、replace()等），它
+    们可以以正则表达式为参数来执行搜索任务。
     
 
 ## 二、es6
