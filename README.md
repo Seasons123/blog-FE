@@ -8,6 +8,8 @@
 
 4.2.3 Function https://github.com/Seasons123/blog/issues/14
 
+4.2.6 String  https://github.com/Seasons123/blog/issues/15
+
 
 ## 二、es6
 
