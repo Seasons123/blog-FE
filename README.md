@@ -38,3 +38,5 @@
 2、MST2-CSS https://github.com/Seasons123/blog/issues/19
 
 3、popup https://github.com/Seasons123/popup
+
+4、CMD,AMD,UMD,commonjs,requirejs,seajs  https://github.com/Seasons123/ADReact/issues/32
