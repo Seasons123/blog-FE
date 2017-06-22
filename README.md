@@ -39,4 +39,4 @@
 
 3、popup https://github.com/Seasons123/popup
 
-4、CMD,AMD,UMD,commonjs,requirejs,seajs  https://github.com/Seasons123/ADReact/issues/32
+4、关于js模块化 https://github.com/Seasons123/ADReact/issues/32
