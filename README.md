@@ -40,3 +40,5 @@
 3、popup https://github.com/Seasons123/popup
 
 4、关于js模块化 https://github.com/Seasons123/ADReact/issues/32
+
+5、浏览器的缓存机制 https://github.com/Seasons123/blog/issues/20
