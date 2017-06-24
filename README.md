@@ -42,3 +42,5 @@
 4、关于js模块化 https://github.com/Seasons123/ADReact/issues/32
 
 5、浏览器的缓存机制 https://github.com/Seasons123/blog/issues/20
+
+6、原型上定义的方法和静态方法有什么区别 https://github.com/Seasons123/blog/issues/21
