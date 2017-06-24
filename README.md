@@ -44,3 +44,7 @@
 5、浏览器的缓存机制 https://github.com/Seasons123/blog/issues/20
 
 6、原型上定义的方法和静态方法有什么区别 https://github.com/Seasons123/blog/issues/21
+
+## 四、JavaScript高程3
+
+1、第一讲：第1~3章 http://www.cnblogs.com/bling/p/5554067.html
