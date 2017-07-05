@@ -15,8 +15,7 @@
             （2）通常情况下，我们会用indexOf()和lastIndexOf()方法进行字符串内搜索，但除此之外还有一些功能更为
             强大的方法（如search()、match()、replace() 等），它们可以以正则表达式为参数来执行搜索任务。
             （3）以正则表达式为参数的字符串方法：split、search、match、replace
-            
-http://www.cnblogs.com/huansky/tag/ES6/            
+                       
             
             
 
@@ -28,6 +27,8 @@ http://www.cnblogs.com/huansky/tag/ES6/
     8.2 rest函数
     8.3 扩展运算符
     8.5 箭头函数
+
+http://www.cnblogs.com/huansky/tag/ES6/ 
 
 
 ## 三、mst
