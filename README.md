@@ -16,10 +16,9 @@
             强大的方法（如search()、match()、replace() 等），它们可以以正则表达式为参数来执行搜索任务。
             （3）以正则表达式为参数的字符串方法：split、search、match、replace
             
-            
+http://www.cnblogs.com/huansky/tag/ES6/            
             
             
-    
 
 
 ## 二、es6
