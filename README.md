@@ -14,10 +14,7 @@
             （1）String对象的方法，返回的都是一个新的基本字符串，它们所做的任何修改都不会改动源字符串。
             （2）通常情况下，我们会用indexOf()和lastIndexOf()方法进行字符串内搜索，但除此之外还有一些功能更为
             强大的方法（如search()、match()、replace() 等），它们可以以正则表达式为参数来执行搜索任务。
-            （3）以正则表达式为参数的字符串方法：split、search、match、replace
-                       
-            
-            
+            （3）以正则表达式为参数的字符串方法：split、search、match、replace        
 
 
 ## 二、es6
@@ -29,6 +26,7 @@
     8.5 箭头函数
 
 http://www.cnblogs.com/huansky/tag/ES6/ 
+
 
 
 ## 三、mst
@@ -44,6 +42,8 @@ http://www.cnblogs.com/huansky/tag/ES6/
 5、浏览器的缓存机制 https://github.com/Seasons123/blog/issues/20
 
 6、原型上定义的方法和静态方法有什么区别 https://github.com/Seasons123/blog/issues/21
+
+
 
 ## 四、JavaScript高程3
 
