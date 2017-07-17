@@ -1,4 +1,3 @@
-"# blog"   
 论文编辑器 ctext http://blog.sina.com.cn/s/blog_6647de110102uw3a.html
 
 Markdown——入门指南 http://www.jianshu.com/p/1e402922ee32/
