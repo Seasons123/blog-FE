@@ -43,6 +43,11 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 6、原型上定义的方法和静态方法有什么区别 https://github.com/Seasons123/blog/issues/21
 
+7、前端性能优化 —— reflow(回流)和repaint(重绘) https://github.com/Seasons123/blog/issues/28
+
+8、前端性能优化 —— 做动画时使用setInterval和setTimeOut这样的延时函数为什么会出现掉帧现象，用requestAnimationFrame不会掉帧
+   https://github.com/Seasons123/blog/issues/29
+
 
 
 ## 四、JavaScript高程3
