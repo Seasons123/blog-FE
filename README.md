@@ -76,6 +76,8 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （4）[前端性能优化 —— 做动画时使用setInterval和setTimeOut这样的延时函数为什么会出现掉帧现象，用requestAnimationFrame不会掉帧](https://github.com/Seasons123/blog/issues/29)
    
+（5）[网页性能管理详解](http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html) 
+
 （5）[Web访问原理-从输入URL到页面加载完成的过程中都发生了什么事情？](https://github.com/Seasons123/blog/issues/30) 
 
 
