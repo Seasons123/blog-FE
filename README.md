@@ -71,6 +71,8 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （7）[javascript如何检测一个数据是不是数组](https://github.com/Seasons123/blog/issues/42) 
 
+（8）[密圈中一个js问题](https://github.com/Seasons123/blog/issues/43) 
+
 3、前端性能
 
 （1）[reflow(回流)和repaint(重绘)](https://github.com/Seasons123/blog/issues/28)
