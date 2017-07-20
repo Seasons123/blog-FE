@@ -57,6 +57,8 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 11、JS事件中如何拿到父节点 https://github.com/Seasons123/blog/issues/37
 
+12、左侧固定宽右侧自适应 https://github.com/Seasons123/blog/issues/38
+
 ## 四、JavaScript高程3
 
 1、第一讲：第1~3章 http://www.cnblogs.com/bling/p/5554067.html
