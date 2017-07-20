@@ -66,19 +66,23 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （6）[Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html) 
 
-3、其他
+3、前端性能
+
+（1）[前端性能优化 —— reflow(回流)和repaint(重绘)](https://github.com/Seasons123/blog/issues/28)
+
+（2）[前端性能优化 —— 做动画时使用setInterval和setTimeOut这样的延时函数为什么会出现掉帧现象，用requestAnimationFrame不会掉帧](https://github.com/Seasons123/blog/issues/29)
+   
+（3）[网页性能管理详解](http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html) 
+
+（4）[JavaScript 函数节流和函数去抖应用场景辨析](https://github.com/hanzichi/underscore-analysis/issues/20) 
+
+4、其他
 
 （1）[综合编程：用原生语言实现实现有遮罩效果的弹窗居中（alibaba）]( https://github.com/Seasons123/popup) 
 
 （2）[浏览器的缓存机制](https://github.com/Seasons123/blog/issues/20) 
 
-（3）[前端性能优化 —— reflow(回流)和repaint(重绘)](https://github.com/Seasons123/blog/issues/28)
-
-（4）[前端性能优化 —— 做动画时使用setInterval和setTimeOut这样的延时函数为什么会出现掉帧现象，用requestAnimationFrame不会掉帧](https://github.com/Seasons123/blog/issues/29)
-   
-（5）[网页性能管理详解](http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html) 
-
-（5）[Web访问原理-从输入URL到页面加载完成的过程中都发生了什么事情？](https://github.com/Seasons123/blog/issues/30) 
+（3）[Web访问原理-从输入URL到页面加载完成的过程中都发生了什么事情？](https://github.com/Seasons123/blog/issues/30) 
 
 
 
