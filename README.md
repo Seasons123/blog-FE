@@ -53,6 +53,7 @@ http://www.cnblogs.com/huansky/tag/ES6/
 9、Web访问原理-从输入URL到页面加载完成的过程中都发生了什么事情？
    https://github.com/Seasons123/blog/issues/30
 
+10、promise，async await，generator 之间的关系 https://github.com/Seasons123/blog/issues/17
 
 ## 四、JavaScript高程3
 
