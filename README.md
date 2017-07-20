@@ -1,6 +1,6 @@
-论文编辑器 ctext http://blog.sina.com.cn/s/blog_6647de110102uw3a.html
+论文编辑器 [ctext](http://blog.sina.com.cn/s/blog_6647de110102uw3a.html)   
 
-Markdown——入门指南 http://www.jianshu.com/p/1e402922ee32/
+Markdown——[入门指南](http://www.jianshu.com/p/1e402922ee32/) 
 
 都是基础知识 :smile:
 
@@ -8,11 +8,11 @@ Markdown——入门指南 http://www.jianshu.com/p/1e402922ee32/
 
        其余部分的笔记见我的笔记《blue cat , I am so hungry》
      
-4.2.2 Array  https://github.com/Seasons123/blog/issues/11
+4.2.2 [Array](https://github.com/Seasons123/blog/issues/11)  
 
-4.2.3 Function https://github.com/Seasons123/blog/issues/14
+4.2.3 [Function](https://github.com/Seasons123/blog/issues/14)  
 
-4.2.6 String  https://github.com/Seasons123/blog/issues/15
+4.2.6 [String](https://github.com/Seasons123/blog/issues/15)
 
             注意：
             （1）String对象的方法，返回的都是一个新的基本字符串，它们所做的任何修改都不会改动源字符串。
@@ -39,42 +39,40 @@ http://www.cnblogs.com/huansky/tag/ES6/
        
 1、CSS相关
 
-（1）CSS九宫格布局 https://github.com/Seasons123/blog/issues/19
+（1）[CSS九宫格布局](https://github.com/Seasons123/blog/issues/19) 
 
-（2）左侧固定宽右侧自适应 https://github.com/Seasons123/blog/issues/38
+（2）[左侧固定宽右侧自适应](https://github.com/Seasons123/blog/issues/38)
 
 （3）[八种创建等高列布局](http://www.w3cplus.com/css/creaet-equal-height-columns)
 
 2、JS相关
 
-（1）闭包问题 https://github.com/Seasons123/blog/issues/18
+（1）[闭包问题](https://github.com/Seasons123/blog/issues/18) 
 
-（2）关于js模块化 https://github.com/Seasons123/ADReact/issues/32
+（2）[关于js模块化](https://github.com/Seasons123/ADReact/issues/32) 
 
-（3）原型上定义的方法和静态方法有什么区别 https://github.com/Seasons123/blog/issues/21
+（3）[原型上定义的方法和静态方法有什么区别 ](https://github.com/Seasons123/blog/issues/21)
 
-（4）JS事件中如何拿到父节点 https://github.com/Seasons123/blog/issues/37
+（4）[JS事件中如何拿到父节点](https://github.com/Seasons123/blog/issues/37) 
 
-（5）promise，async await，generator 之间的关系 https://github.com/Seasons123/blog/issues/17
+（5）[promise，async await，generator 之间的关系 ](https://github.com/Seasons123/blog/issues/17) 
 
-（6）Javascript异步编程的4种方法 http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html
+（6）[Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html) 
 
 3、其他
 
-（1）综合编程：用原生语言实现实现有遮罩效果的弹窗居中（alibaba） https://github.com/Seasons123/popup
+（1）[综合编程：用原生语言实现实现有遮罩效果的弹窗居中（alibaba]( https://github.com/Seasons123/popup) 
 
-（2）浏览器的缓存机制 https://github.com/Seasons123/blog/issues/20
+（2）[浏览器的缓存机制](https://github.com/Seasons123/blog/issues/20) 
 
-（3）前端性能优化 —— reflow(回流)和repaint(重绘) https://github.com/Seasons123/blog/issues/28
+（3）[前端性能优化 —— reflow(回流)和repaint(重绘)](https://github.com/Seasons123/blog/issues/28)
 
-（4）前端性能优化 —— 做动画时使用setInterval和setTimeOut这样的延时函数为什么会出现掉帧现象，用requestAnimationFrame不会掉帧
-   https://github.com/Seasons123/blog/issues/29
+（4）[前端性能优化 —— 做动画时使用setInterval和setTimeOut这样的延时函数为什么会出现掉帧现象，用requestAnimationFrame不会掉帧](https://github.com/Seasons123/blog/issues/29)
    
-（5）Web访问原理-从输入URL到页面加载完成的过程中都发生了什么事情？
-   https://github.com/Seasons123/blog/issues/30
+（5）[Web访问原理-从输入URL到页面加载完成的过程中都发生了什么事情？](https://github.com/Seasons123/blog/issues/30) 
 
 
 
 ## 四、JavaScript高程3
 
-1、第一讲：第1~3章 http://www.cnblogs.com/bling/p/5554067.html
+1、[第一讲：第1~3章](http://www.cnblogs.com/bling/p/5554067.html)  
