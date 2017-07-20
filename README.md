@@ -61,7 +61,7 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 3、其他
 
-（1）[综合编程：用原生语言实现实现有遮罩效果的弹窗居中（alibaba]( https://github.com/Seasons123/popup) 
+（1）[综合编程：用原生语言实现实现有遮罩效果的弹窗居中（alibaba）]( https://github.com/Seasons123/popup) 
 
 （2）[浏览器的缓存机制](https://github.com/Seasons123/blog/issues/20) 
 
