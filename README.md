@@ -69,6 +69,8 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （6）[Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html) 
 
+（7）[javascript如何检测一个数据是不是数组](https://github.com/Seasons123/blog/issues/42) 
+
 3、前端性能
 
 （1）[reflow(回流)和repaint(重绘)](https://github.com/Seasons123/blog/issues/28)
