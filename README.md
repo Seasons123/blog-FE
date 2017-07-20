@@ -35,9 +35,9 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 ## 三、mst
 
-1、MST1-闭包问题 https://github.com/Seasons123/blog/issues/18
+1、闭包问题 https://github.com/Seasons123/blog/issues/18
 
-2、MST2-CSS https://github.com/Seasons123/blog/issues/19
+2、CSS九宫格布局 https://github.com/Seasons123/blog/issues/19
 
 3、popup https://github.com/Seasons123/popup
 
