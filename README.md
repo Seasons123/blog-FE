@@ -35,31 +35,39 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 ## 三、mst
 
-1、闭包问题 https://github.com/Seasons123/blog/issues/18
+1、CSS相关
 
-2、CSS九宫格布局 https://github.com/Seasons123/blog/issues/19
+（1）CSS九宫格布局 https://github.com/Seasons123/blog/issues/19
 
-3、popup https://github.com/Seasons123/popup
+（2）左侧固定宽右侧自适应 https://github.com/Seasons123/blog/issues/38
 
-4、关于js模块化 https://github.com/Seasons123/ADReact/issues/32
+2、JS相关
 
-5、浏览器的缓存机制 https://github.com/Seasons123/blog/issues/20
+（1）闭包问题 https://github.com/Seasons123/blog/issues/18
 
-6、原型上定义的方法和静态方法有什么区别 https://github.com/Seasons123/blog/issues/21
+（2）关于js模块化 https://github.com/Seasons123/ADReact/issues/32
 
-7、前端性能优化 —— reflow(回流)和repaint(重绘) https://github.com/Seasons123/blog/issues/28
+（3）原型上定义的方法和静态方法有什么区别 https://github.com/Seasons123/blog/issues/21
 
-8、前端性能优化 —— 做动画时使用setInterval和setTimeOut这样的延时函数为什么会出现掉帧现象，用requestAnimationFrame不会掉帧
+（4）JS事件中如何拿到父节点 https://github.com/Seasons123/blog/issues/37
+
+（5）promise，async await，generator 之间的关系 https://github.com/Seasons123/blog/issues/17
+
+3、其他
+
+（1）综合编程：用原生语言实现实现有遮罩效果的弹窗居中（alibaba） https://github.com/Seasons123/popup
+
+（2）浏览器的缓存机制 https://github.com/Seasons123/blog/issues/20
+
+（3）前端性能优化 —— reflow(回流)和repaint(重绘) https://github.com/Seasons123/blog/issues/28
+
+（4）前端性能优化 —— 做动画时使用setInterval和setTimeOut这样的延时函数为什么会出现掉帧现象，用requestAnimationFrame不会掉帧
    https://github.com/Seasons123/blog/issues/29
-
-9、Web访问原理-从输入URL到页面加载完成的过程中都发生了什么事情？
+   
+（5）Web访问原理-从输入URL到页面加载完成的过程中都发生了什么事情？
    https://github.com/Seasons123/blog/issues/30
 
-10、promise，async await，generator 之间的关系 https://github.com/Seasons123/blog/issues/17
 
-11、JS事件中如何拿到父节点 https://github.com/Seasons123/blog/issues/37
-
-12、左侧固定宽右侧自适应 https://github.com/Seasons123/blog/issues/38
 
 ## 四、JavaScript高程3
 
