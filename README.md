@@ -43,7 +43,7 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （2）左侧固定宽右侧自适应 https://github.com/Seasons123/blog/issues/38
 
-（3）八种创建等高列布局 http://www.w3cplus.com/css/creaet-equal-height-columns
+（3）[八种创建等高列布局](http://www.w3cplus.com/css/creaet-equal-height-columns)
 
 2、JS相关
 
