@@ -44,13 +44,16 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （1）[CSS九宫格布局](https://github.com/Seasons123/blog/issues/19) 
 
-（2）[左侧固定宽右侧自适应](https://github.com/Seasons123/blog/issues/38)
+（2）
+ > 1.[左侧固定宽右侧自适应](https://github.com/Seasons123/blog/issues/38)
 
-（3）[八种创建等高列布局](http://www.w3cplus.com/css/creaet-equal-height-columns)
+ > 2.[八种创建等高列布局](http://www.w3cplus.com/css/creaet-equal-height-columns)
 
-（4）[实现最小高度的设置](https://github.com/Seasons123/blog/issues/39)
+ > 3.[实现最小高度的设置](https://github.com/Seasons123/blog/issues/39)
 
-（5）[综合上面三条的一道CSS布局的面试题](https://github.com/Seasons123/blog/issues/40)
+ > 4.[综合上面三条的一道CSS布局的面试题](https://github.com/Seasons123/blog/issues/40)
+ 
+（3）[圣杯布局和双飞翼布局](http://www.jianshu.com/p/f9bcddb0e8b4)
 
 2、JS相关
 
