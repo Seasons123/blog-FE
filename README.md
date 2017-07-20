@@ -23,11 +23,14 @@ Markdown——[入门指南](http://www.jianshu.com/p/1e402922ee32/)
 
 ## 二、es6
 
-1、第8章 函数的扩展  https://github.com/Seasons123/blog/issues/12
+1、第8章 函数的扩展
 
-    8.2 rest函数
-    8.3 扩展运算符
-    8.5 箭头函数
+（1）[rest函数](https://github.com/Seasons123/blog/issues/12) 
+
+（2）[扩展运算符](https://github.com/Seasons123/blog/issues/12) 
+
+（3）[箭头函数](https://github.com/Seasons123/blog/issues/41) 
+
 
 http://www.cnblogs.com/huansky/tag/ES6/ 
 
