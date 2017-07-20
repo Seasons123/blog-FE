@@ -35,7 +35,7 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 ## 三、mst
 
-       另一部分见笔记《blue cat , I am so hungry》
+           另一部分见笔记《blue cat , I am so hungry》
        
 1、CSS相关
 
