@@ -55,6 +55,8 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （5）promise，async await，generator 之间的关系 https://github.com/Seasons123/blog/issues/17
 
+（6）Javascript异步编程的4种方法 http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html
+
 3、其他
 
 （1）综合编程：用原生语言实现实现有遮罩效果的弹窗居中（alibaba） https://github.com/Seasons123/popup
