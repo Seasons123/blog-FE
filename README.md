@@ -2,6 +2,8 @@
 
 Markdown——入门指南 http://www.jianshu.com/p/1e402922ee32/
 
+都是基础知识 :smile:
+
 ##  一、Object-Oriented JavaScript       
 
        其余部分的笔记见我的笔记《blue cat , I am so hungry》
