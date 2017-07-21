@@ -131,3 +131,5 @@ http://www.cnblogs.com/huansky/tag/ES6/
 ## 四、JavaScript高程3
 
 1、[第一讲：第1~3章](http://www.cnblogs.com/bling/p/5554067.html)  
+
+## 五、《深入浅出nodejs》-朴灵
