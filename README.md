@@ -31,6 +31,8 @@ Markdown——[入门指南](http://www.jianshu.com/p/1e402922ee32/)
 
 （3）[箭头函数](https://github.com/Seasons123/blog/issues/41) 
 
+（4）[Promise](https://github.com/Seasons123/blog/issues/52) 
+
 
 http://www.cnblogs.com/huansky/tag/ES6/ 
 
