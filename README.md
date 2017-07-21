@@ -55,6 +55,8 @@ http://www.cnblogs.com/huansky/tag/ES6/
  
 （3）[圣杯布局和双飞翼布局](http://www.jianshu.com/p/f9bcddb0e8b4)
 
+（4）[stick footer布局](https://github.com/Seasons123/blog/issues/46)
+
 2、JS相关
 
 （1）[闭包问题](https://github.com/Seasons123/blog/issues/18) 
