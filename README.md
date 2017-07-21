@@ -33,6 +33,8 @@ Markdown——[入门指南](http://www.jianshu.com/p/1e402922ee32/)
 
 （4）[Promise](https://github.com/Seasons123/blog/issues/52) 
 
+（5）[你必须了解的 ES8 新特性](https://github.com/Seasons123/blog/issues/27)
+
 
 http://www.cnblogs.com/huansky/tag/ES6/ 
 
