@@ -76,6 +76,8 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （7）[密圈中一个js问题](https://github.com/Seasons123/blog/issues/43) 
 
+（8）[jquery的监听事件的方式有哪几种，它们的区别是什么](https://github.com/Seasons123/blog/issues/51)
+
 3、前端性能
 
 （1）[reflow(回流)和repaint(重绘)](https://github.com/Seasons123/blog/issues/28)
@@ -99,6 +101,10 @@ http://www.cnblogs.com/huansky/tag/ES6/
 （2）[浏览器的缓存机制](https://github.com/Seasons123/blog/issues/20) 
 
 （3）[Web访问原理-从输入URL到页面加载完成的过程中都发生了什么事情？](https://github.com/Seasons123/blog/issues/30) 
+
+（4）[说说你对MVVM思想的理解](https://github.com/Seasons123/blog/issues/50)
+
+（5）[jsonp的原理](https://github.com/Seasons123/blog/issues/49)
 
 
 
