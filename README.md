@@ -108,6 +108,10 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （5）[jsonp的原理](https://github.com/Seasons123/blog/issues/49)
 
+5、不错的博文
+
+（1）[Double-Lv博客园](https://github.com/Seasons123/blog/issues/53)
+
 
 
 ## 四、JavaScript高程3
