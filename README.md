@@ -4,7 +4,7 @@ Markdown——[入门指南](http://www.jianshu.com/p/1e402922ee32/)
 
 都是前端相关基础知识 :smile:
 
-##  一、Object-Oriented JavaScript       
+##  一、《Object-Oriented JavaScript》       
 
        其余部分的笔记见我的笔记《blue cat , I am so hungry》
      
@@ -21,7 +21,7 @@ Markdown——[入门指南](http://www.jianshu.com/p/1e402922ee32/)
             （3）以正则表达式为参数的字符串方法：split、search、match、replace        
 
 
-## 二、es6
+## 二、《es6》
 
 1、第8章 函数的扩展
 
@@ -128,7 +128,7 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 
 
-## 四、JavaScript高程3
+## 四、《JavaScript高程3》
 
 1、[第一讲：第1~3章](http://www.cnblogs.com/bling/p/5554067.html)  
 
