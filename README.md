@@ -92,6 +92,8 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （4）[JavaScript 函数节流和函数去抖应用场景辨析](https://github.com/hanzichi/underscore-analysis/issues/20) 
 
+（5）[浏览器的缓存机制](https://github.com/Seasons123/blog/issues/20)
+
 5、模块化
 
 （1）[关于js模块化](https://github.com/Seasons123/ADReact/issues/32) 
@@ -100,30 +102,29 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 4、其他
 
-（1）[综合编程：用原生语言实现实现有遮罩效果的弹窗居中（alibaba）]( https://github.com/Seasons123/popup) 
+（1）[综合编程：用原生语言实现实现有遮罩效果的弹窗居中（alibaba）]( https://github.com/Seasons123/popup)  
 
-（2）[浏览器的缓存机制](https://github.com/Seasons123/blog/issues/20) 
+（2）[Web访问原理-从输入URL到页面加载完成的过程中都发生了什么事情？](https://github.com/Seasons123/blog/issues/30) 
 
-（3）[Web访问原理-从输入URL到页面加载完成的过程中都发生了什么事情？](https://github.com/Seasons123/blog/issues/30) 
+（3）[说说你对MVVM思想的理解](https://github.com/Seasons123/blog/issues/50)
 
-（4）[说说你对MVVM思想的理解](https://github.com/Seasons123/blog/issues/50)
-
-（5）[jsonp的原理](https://github.com/Seasons123/blog/issues/49)
+（4）[jsonp的原理](https://github.com/Seasons123/blog/issues/49)
 
 5、不错的博文
 
 （1）[阮老师的网络日志](http://www.ruanyifeng.com/blog/archives.html)
 
-（2）[大漠的w3cplus](http://www.w3cplus.com/)
+（2）[大漠老师的w3cplus和相关的CSS书](http://www.w3cplus.com/)
 
-（3）[月影的博客](https://www.h5jun.com/)
+（3）[月影老师的博客](https://www.h5jun.com/)
 
-（4）[张鑫旭的博客](http://www.zhangxinxu.com/)
+（4）[张鑫旭老师的博客](http://www.zhangxinxu.com/)
 
 （5）面试相关
+
  > 1.[skylar博客园](http://www.cnblogs.com/skylar/category/627149.html)
 
- > 2.[Double-Lv博客园](https://github.com/Seasons123/blog/issues/53)
+ > 2.[吕师兄博客园](https://github.com/Seasons123/blog/issues/53)
 
 
 
