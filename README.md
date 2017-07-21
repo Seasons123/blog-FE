@@ -119,7 +119,7 @@ http://www.cnblogs.com/huansky/tag/ES6/
 （4）[张鑫旭的博客](http://www.zhangxinxu.com/)
 
 （5）面试相关
- > 1.[skylar博客](http://www.cnblogs.com/skylar/category/627149.html)
+ > 1.[skylar博客园](http://www.cnblogs.com/skylar/category/627149.html)
 
  > 2.[Double-Lv博客园](https://github.com/Seasons123/blog/issues/53)
 
