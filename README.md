@@ -116,9 +116,7 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （2）[大漠老师的w3cplus和相关的CSS书](http://www.w3cplus.com/)
 
-
-                CSS的书籍《CSS权威指南》--双鱼书、《JavaScript DOM 编程艺术》
-                
+       CSS的书籍《CSS权威指南》--双鱼书、《JavaScript DOM 编程艺术》                
 
 （3）[月影老师的博客](https://www.h5jun.com/)
 
