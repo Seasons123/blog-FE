@@ -57,6 +57,9 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （4）[stick footer布局](https://github.com/Seasons123/blog/issues/46)
 
+（5）[最小高度满一屏的自适应布局](https://github.com/Seasons123/blog/issues/47)
+
+
 2、JS相关
 
 （1）[闭包问题](https://github.com/Seasons123/blog/issues/18) 
