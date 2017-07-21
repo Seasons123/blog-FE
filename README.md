@@ -59,19 +59,17 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （1）[闭包问题](https://github.com/Seasons123/blog/issues/18) 
 
-（2）[关于js模块化](https://github.com/Seasons123/ADReact/issues/32) 
+（2）[原型上定义的方法和静态方法有什么区别 ](https://github.com/Seasons123/blog/issues/21)
 
-（3）[原型上定义的方法和静态方法有什么区别 ](https://github.com/Seasons123/blog/issues/21)
+（3）[JS事件中如何拿到父节点](https://github.com/Seasons123/blog/issues/37) 
 
-（4）[JS事件中如何拿到父节点](https://github.com/Seasons123/blog/issues/37) 
+（4）[promise，async await，generator 之间的关系 ](https://github.com/Seasons123/blog/issues/17) 
 
-（5）[promise，async await，generator 之间的关系 ](https://github.com/Seasons123/blog/issues/17) 
+（5）[Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html) 
 
-（6）[Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html) 
+（6）[javascript如何检测一个数据是不是数组](https://github.com/Seasons123/blog/issues/42) 
 
-（7）[javascript如何检测一个数据是不是数组](https://github.com/Seasons123/blog/issues/42) 
-
-（8）[密圈中一个js问题](https://github.com/Seasons123/blog/issues/43) 
+（7）[密圈中一个js问题](https://github.com/Seasons123/blog/issues/43) 
 
 3、前端性能
 
@@ -82,6 +80,12 @@ http://www.cnblogs.com/huansky/tag/ES6/
 （3）[网页性能管理详解](http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html) 
 
 （4）[JavaScript 函数节流和函数去抖应用场景辨析](https://github.com/hanzichi/underscore-analysis/issues/20) 
+
+5、模块化
+
+（1）[关于js模块化](https://github.com/Seasons123/ADReact/issues/32) 
+
+（2）[webpack中require和import的区别](https://github.com/Seasons123/blog/issues/45) 
 
 4、其他
 
