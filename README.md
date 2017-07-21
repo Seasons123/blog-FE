@@ -110,7 +110,18 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 5、不错的博文
 
-（1）[Double-Lv博客园](https://github.com/Seasons123/blog/issues/53)
+（1）[阮老师的网络日志](http://www.ruanyifeng.com/blog/archives.html)
+
+（2）[大漠的w3cplus](http://www.w3cplus.com/)
+
+（3）[月影的博客](https://www.h5jun.com/)
+
+（4）[张鑫旭的博客](http://www.zhangxinxu.com/)
+
+（5）面试相关
+ > 1.[大漠的w3cplus](http://www.cnblogs.com/skylar/category/627149.html)
+
+ > 2.[Double-Lv博客园](https://github.com/Seasons123/blog/issues/53)
 
 
 
