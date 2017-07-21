@@ -132,9 +132,7 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 ## 四、《JavaScript高程3》
 
-
-            暂时没仔细看《JavaScript权威指南》
-            
+       暂时没仔细看《JavaScript权威指南》                
 
 1、[第一讲：第1~3章](http://www.cnblogs.com/bling/p/5554067.html)  
 
