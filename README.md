@@ -2,7 +2,7 @@
 
 Markdown——[入门指南](http://www.jianshu.com/p/1e402922ee32/) 
 
-汇总了一部分前端相关基础知识 :smile:
+汇总了一部分前端相关基础知识 :watermelon:
 
 ##  一、《Object-Oriented JavaScript》       
 
