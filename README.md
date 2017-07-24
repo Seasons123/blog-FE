@@ -106,7 +106,7 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （2）[Web访问原理-从输入URL到页面加载完成的过程中都发生了什么事情？](https://github.com/Seasons123/blog/issues/30) 
 
-（3）[说说你对MVVM思想的理解](https://github.com/Seasons123/blog/issues/50)
+（3）[MVVM思想的理解](https://github.com/Seasons123/blog/issues/50)
 
 （4）[jsonp的原理](https://github.com/Seasons123/blog/issues/49)
 
