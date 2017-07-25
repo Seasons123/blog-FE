@@ -124,7 +124,7 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （4）[张鑫旭老师的博客](http://www.zhangxinxu.com/)
 
-（5）[leehey's blog]https://github.com/lcxfs1991/blog)
+（5）[leehey's blog](https://github.com/lcxfs1991/blog)
 
 （6）面试相关
 
