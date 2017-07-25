@@ -96,7 +96,7 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 5、模块化
 
-（1）[关于js模块化](https://github.com/Seasons123/ADReact/issues/32) webpack优秀中文文章
+（1）[关于js模块化](https://github.com/Seasons123/ADReact/issues/32) 
 
 （2）[webpack中require和import的区别](https://github.com/Seasons123/blog/issues/45) 
 
