@@ -84,6 +84,8 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （9）[严格模式](https://github.com/Seasons123/blog/issues/57)
 
+（10）[两个js笔试题Tencent](https://github.com/Seasons123/blog/issues/60)
+
 3、前端性能
 
 （1）[reflow(回流)和repaint(重绘)](https://github.com/Seasons123/blog/issues/28)
