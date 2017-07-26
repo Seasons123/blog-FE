@@ -90,7 +90,7 @@ http://www.cnblogs.com/huansky/tag/ES6/
    
 （3）[网页性能管理详解](http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html) 
 
-（4）[JavaScript 函数节流和函数去抖应用场景辨析](https://github.com/hanzichi/underscore-analysis/issues/20) 
+（4）[JavaScript 函数节流和函数去抖应用场景辨析](https://github.com/Seasons123/blog/issues/55) 
 
 （5）[浏览器的缓存机制](https://github.com/Seasons123/blog/issues/20)
 
