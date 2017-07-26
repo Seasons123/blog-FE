@@ -126,11 +126,7 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （5）[leehey's blog](https://github.com/lcxfs1991/blog)
 
-（6）面试相关
-
- > 1.[skylar博客园](http://www.cnblogs.com/skylar/category/627149.html)
-
- > 2.[吕师兄博客园](https://github.com/Seasons123/blog/issues/53)
+（6）[吕师兄博客园](https://github.com/Seasons123/blog/issues/53)
 
 
 
