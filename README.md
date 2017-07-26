@@ -116,7 +116,7 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （5）[UDP的首部头和TCP的首部](https://github.com/Seasons123/blog/issues/56)
 
-（6）[进程/线程同步的方式](https://github.com/Seasons123/blog/issues/58)
+（6）[进程/线程同步的方式](https://github.com/Seasons123/blog/issues/58) :doubt:
 
 5、不错的博文
 
