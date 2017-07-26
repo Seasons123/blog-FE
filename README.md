@@ -114,7 +114,9 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （4）[jsonp的原理](https://github.com/Seasons123/blog/issues/49)
 
-（4）[UDP的首部头和TCP的首部](https://github.com/Seasons123/blog/issues/56)
+（5）[UDP的首部头和TCP的首部](https://github.com/Seasons123/blog/issues/56)
+
+（6）[进程/线程同步的方式](https://github.com/Seasons123/blog/issues/58)
 
 5、不错的博文
 
