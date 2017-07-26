@@ -82,6 +82,8 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （8）[jquery的监听事件的方式有哪几种，它们的区别是什么](https://github.com/Seasons123/blog/issues/51)
 
+（9）[严格模式](https://github.com/Seasons123/blog/issues/57)
+
 3、前端性能
 
 （1）[reflow(回流)和repaint(重绘)](https://github.com/Seasons123/blog/issues/28)
