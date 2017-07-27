@@ -86,6 +86,8 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （10）[两个js笔试题Tencent](https://github.com/Seasons123/blog/issues/60)
 
+（11）[JS实现各种排序算法](https://github.com/Seasons123/blog/issues/63)
+
 3、前端性能
 
 （1）[reflow(回流)和repaint(重绘)](https://github.com/Seasons123/blog/issues/28)
