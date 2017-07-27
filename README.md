@@ -84,9 +84,7 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （9）[严格模式](https://github.com/Seasons123/blog/issues/57)
 
-（10）[两个js笔试题Tencent](https://github.com/Seasons123/blog/issues/60)
-
-（11）[JS实现各种排序算法](https://github.com/Seasons123/blog/issues/63)
+（10）[JS实现各种排序算法](https://github.com/Seasons123/blog/issues/63)
 
 3、前端性能
 
