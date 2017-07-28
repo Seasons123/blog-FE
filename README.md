@@ -120,6 +120,8 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （6）[操作系统：进程/线程同步的方式](https://github.com/Seasons123/blog/issues/58) :question:
 
+（5）[正则表达式](https://github.com/Seasons123/blog/issues/8)
+
 5、不错的博文
 
 （1）[阮老师的网络日志](http://www.ruanyifeng.com/blog/archives.html)
