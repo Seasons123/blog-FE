@@ -63,6 +63,8 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （5）[最小高度满一屏的自适应布局](https://github.com/Seasons123/blog/issues/47)
 
+（6）[如何实现并排的三个DIV框都自适应](https://github.com/Seasons123/blog/issues/65)
+
 
 2、JS相关
 
