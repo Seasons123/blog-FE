@@ -90,6 +90,18 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （11）[javascript中对象的深度克隆](http://www.cnblogs.com/jq-melody/p/4499333.html) 这篇博文递归的部分还有另外两种写法，另见js面向编程指南6.8深拷贝和[该链接13题](https://yq.aliyun.com/articles/138985)
 
+              改成常见递归形式
+              for(key in obj){
+                          var copy=obj[key];
+                          if(isClass(copy)=="Object"){
+                              result[key]=deepClone(copy);//递归调用
+                          }else if(isClass(copy)=="Array"){
+                              result[key]=deepClone(copy);
+                          }else{
+                              result[key]=obj[key];
+                          }
+                      }
+
 3、前端性能
 
 （1）[reflow(回流)和repaint(重绘)](https://github.com/Seasons123/blog/issues/28)
