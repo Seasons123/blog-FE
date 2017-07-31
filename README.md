@@ -88,6 +88,8 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （10）[JS实现各种排序算法](https://github.com/Seasons123/blog/issues/63)
 
+（11）[javascript中对象的深度克隆](http://www.cnblogs.com/jq-melody/p/4499333.html)
+
 3、前端性能
 
 （1）[reflow(回流)和repaint(重绘)](https://github.com/Seasons123/blog/issues/28)
