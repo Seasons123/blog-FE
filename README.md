@@ -156,7 +156,7 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 （5）[各种前端资源汇总「备忘、常逛」【持续更新...】](http://www.cnblogs.com/skylar/p/front-end-resource-javascript.html)
 
-（6）[Baidu技术周刊](http://fex.baidu.com/articles/)
+（6）FEX技术周刊](http://fex.baidu.com/articles/)
 
 
 ## 四、《JavaScript高程3》
