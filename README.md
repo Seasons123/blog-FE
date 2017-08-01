@@ -164,4 +164,8 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
 1、[第一讲：第1~3章](http://www.cnblogs.com/bling/p/5554067.html)  
 
-## 五、《深入浅出nodejs》-朴灵
+## 五、《JavaScript语言精粹》
+
+[读书总结](http://www.cnblogs.com/xing901022/p/4872910.html) 
+
+## 六、《深入浅出nodejs》-朴灵
