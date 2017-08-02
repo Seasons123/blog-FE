@@ -178,3 +178,5 @@ http://www.cnblogs.com/huansky/tag/ES6/
 > 2.Stream是什么，使用的两种模式
 
 > 3.http模块如何将异步处理方式实现成同步处理方式，具体解析请参考[http模块如何将异步处理转成同步处理](http://blog.csdn.net/wanglei20116527/article/details/62892070) 
+
+> 4.[node-interview-questions](https://github.com/jimuyouyou/node-interview-questions)  
