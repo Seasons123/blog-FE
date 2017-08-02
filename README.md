@@ -102,6 +102,8 @@ http://www.cnblogs.com/huansky/tag/ES6/
                           }
                       }
 
+（12）[js实现自定义contextmenu](http://www.jianshu.com/p/8c358b38734f)
+
 3、前端性能
 
 （1）[reflow(回流)和repaint(重绘)](https://github.com/Seasons123/blog/issues/28)
