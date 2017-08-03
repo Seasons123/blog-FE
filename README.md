@@ -33,12 +33,10 @@ Markdown——[入门指南](http://www.jianshu.com/p/1e402922ee32/)
 
 （4）[Promise](https://github.com/Seasons123/blog/issues/52) 
 
-（5）[你必须了解的 ES8 新特性](https://github.com/Seasons123/blog/issues/27)
 
 [重温ES6核心概念和基本用法](https://segmentfault.com/a/1190000009885614)
 
-http://www.cnblogs.com/huansky/tag/ES6/ 
-
+[ES6学习笔记](http://www.cnblogs.com/huansky/tag/ES6/)
 
 
 ## 三、mst
