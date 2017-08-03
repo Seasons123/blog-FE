@@ -47,9 +47,7 @@ http://www.cnblogs.com/huansky/tag/ES6/
        
 1、CSS相关
 
-（1）[CSS九宫格布局](https://github.com/Seasons123/blog/issues/19) 
-
-（2）
+（1）
  > 1.[左侧固定宽右侧自适应](https://github.com/Seasons123/blog/issues/38)
 
  > 2.[八种创建等高列布局](http://www.w3cplus.com/css/creaet-equal-height-columns)
@@ -58,13 +56,13 @@ http://www.cnblogs.com/huansky/tag/ES6/
 
  > 4.[综合上面三条的一道CSS布局的面试题](https://github.com/Seasons123/blog/issues/40)
  
-（3）[圣杯布局和双飞翼布局](http://www.jianshu.com/p/f9bcddb0e8b4)
+（2）[圣杯布局和双飞翼布局](http://www.jianshu.com/p/f9bcddb0e8b4)
 
-（4）[stick footer布局](https://github.com/Seasons123/blog/issues/46)
+（3）[stick footer布局](https://github.com/Seasons123/blog/issues/46)
 
-（5）[最小高度满一屏的自适应布局](https://github.com/Seasons123/blog/issues/47)
+（4）[最小高度满一屏的自适应布局](https://github.com/Seasons123/blog/issues/47)
 
-（6）[如何实现并排的三个DIV框都自适应](https://github.com/Seasons123/blog/issues/65)
+（5）[如何实现并排的三个DIV框都自适应](https://github.com/Seasons123/blog/issues/65)
 
 
 2、JS相关
