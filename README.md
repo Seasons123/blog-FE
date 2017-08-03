@@ -172,7 +172,7 @@ Markdown——[入门指南](http://www.jianshu.com/p/1e402922ee32/)
 
 > 1.[Buffer模块是干什么的 ](http://www.jb51.net/article/59593.htm)
 
-> 2. [Stream是什么，使用的两种模式 ](http://www.cnblogs.com/bigbearbb/p/4210444.html)
+> 2.[Stream是什么，使用的两种模式 ](http://www.cnblogs.com/bigbearbb/p/4210444.html)
 
 > 3.http模块如何将异步处理方式实现成同步处理方式，具体解析请参考[http模块如何将异步处理转成同步处理](http://blog.csdn.net/wanglei20116527/article/details/62892070) 
 
