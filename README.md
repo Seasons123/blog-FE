@@ -35,6 +35,7 @@ Markdown——[入门指南](http://www.jianshu.com/p/1e402922ee32/)
 
 （5）[你必须了解的 ES8 新特性](https://github.com/Seasons123/blog/issues/27)
 
+[重温ES6核心概念和基本用法](https://segmentfault.com/a/1190000009885614)
 
 http://www.cnblogs.com/huansky/tag/ES6/ 
 
