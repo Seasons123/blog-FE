@@ -151,11 +151,9 @@ Markdown——[入门指南](http://www.jianshu.com/p/1e402922ee32/)
 
 （5）[leehey's blog](https://github.com/lcxfs1991/blog)
 
-（6）[web前端笔面试汇总](https://github.com/Seasons123/blog/issues/53)
+（6）[各种前端资源汇总「备忘、常逛」【持续更新...】](http://www.cnblogs.com/skylar/p/front-end-resource-javascript.html)
 
-（5）[各种前端资源汇总「备忘、常逛」【持续更新...】](http://www.cnblogs.com/skylar/p/front-end-resource-javascript.html)
-
-（6）[FEX技术周刊](http://fex.baidu.com/articles/)
+（7）[FEX技术周刊](http://fex.baidu.com/articles/)
 
 
 ## 四、《JavaScript高程3》
