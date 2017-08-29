@@ -62,6 +62,8 @@ Markdown——[入门指南](http://www.jianshu.com/p/1e402922ee32/)
 
 （5）[如何实现并排的三个DIV框都自适应](https://github.com/Seasons123/blog/issues/65)
 
+（6）[谈谈一些有趣的 CSS 话题](https://github.com/chokcoco/iCSS)还有博主系列文章[CSS3奇思妙想，单标签实现各类图形](https://github.com/chokcoco/magicCss)、[CSS3 实现各类 3D && 3D 行星动画效果](https://github.com/chokcoco/css3-)
+
 
 2、JS相关
 
