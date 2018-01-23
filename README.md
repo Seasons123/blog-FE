@@ -158,6 +158,8 @@ Markdown——[入门指南](http://www.jianshu.com/p/1e402922ee32/)
 
 （7）[FEX技术周刊](http://fex.baidu.com/articles/)
 
+（8）[FloydHub Blog](https://blog.floydhub.com/)
+
 
 ## 四、《JavaScript高程3》
 
