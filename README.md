@@ -167,7 +167,7 @@ Markdown——[入门指南](http://www.jianshu.com/p/1e402922ee32/)
 
        另外一本《JavaScript权威指南》               
 
-1、[第一讲：第1~3章](http://www.cnblogs.com/bling/p/5554067.html)  
+1、[笔记：第1~3章](https://github.com/Seasons123/blog-FE/issues/79)  
 
 ## 五、《JavaScript语言精粹》
 
