@@ -41,6 +41,8 @@ Markdown——[入门指南](http://www.jianshu.com/p/1e402922ee32/)
 
 [ES6学习笔记](http://www.cnblogs.com/huansky/tag/ES6/)
 
+[在ES6中使用函数式编程-英文原文文档](https://github.com/Seasons123/blog-FE/issues/81)
+
 
 ## 三、mst
 
