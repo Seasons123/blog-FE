@@ -110,6 +110,8 @@ JavaScript是单线程还是多线程？很不意外的我猜错了答案。有�
 
 （12）[js实现自定义contextmenu](http://www.jianshu.com/p/8c358b38734f)
 
+（13）[JavaScript 函数继承的几种方法](https://github.com/Seasons123/blog-FE/issues/88)
+
 3、前端性能
 
 （1）[reflow(回流)和repaint(重绘)](https://github.com/Seasons123/blog/issues/28)
