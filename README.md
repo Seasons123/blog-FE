@@ -8,7 +8,7 @@ Markdown——[入门指南](http://www.jianshu.com/p/1e402922ee32/)
 
 ##  一、《Object-Oriented JavaScript》       
 
-       其余部分的笔记见我的笔记《blue cat , I am so hungry》。题外话：想起研一末的那个暑假Philip师傅面试时问的我一个问题：JavaScript是单线程还是多线程？很不意外的我猜错了答案。有时候觉得一门语言你学了很久也掌握了很多知识，到最后却发现它最重要的特性早已忘到九霄云外（因为理解不到位所以容易忘）。[为什么JavaScript是单线程](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)。承认自己的不足，然后更加努力 :smile:
+       其余部分的笔记见我的笔记《blue cat , I am so hungry》。题外话：想起研一末的暑假面试时的一个问题：JavaScript是单线程还是多线程？很不意外的我猜错了答案。:smile: 有时候觉得一门语言你学了很久也掌握了很多知识，到最后却发现它最重要的特性早已忘到九霄云外。[为什么JavaScript是单线程](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)。
       
       
 4.2.2 [Array](https://github.com/Seasons123/blog/issues/11)  
