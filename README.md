@@ -144,7 +144,7 @@ JavaScript是单线程还是多线程？很不意外的我猜错了答案。有�
 
 （5）[网络：UDP和TCP](https://github.com/Seasons123/blog/issues/56)
 
-（6）[操作系统：进程/线程同步的方式](https://github.com/Seasons123/blog/issues/58) :question:
+（6）[操作系统：进程/线程同步的方式](https://github.com/Seasons123/blog/issues/58) 
 
 （5）[正则表达式](https://github.com/Seasons123/blog/issues/8)
 
