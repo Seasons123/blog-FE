@@ -163,6 +163,8 @@ JavaScript是单线程还是多线程？很不意外的我猜错了答案。有�
 
 （3）[月影老师的博客](https://www.h5jun.com/)
 
+ > [如何优雅地取数值的整数和小数部分](https://mp.weixin.qq.com/s/SYUorBTDZnfj7F7lYJxSfA)
+
 （4）[张鑫旭老师的博客](http://www.zhangxinxu.com/)
 
 （5）[leehey's blog](https://github.com/lcxfs1991/blog)
