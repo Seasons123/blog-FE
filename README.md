@@ -108,15 +108,15 @@ JavaScript是单线程还是多线程？很不意外的我猜错了答案。有�
 
               改成常见递归形式
               for(key in obj){
-                          var copy=obj[key];
-                          if(isClass(copy)=="Object"){
-                              result[key]=deepClone(copy);//递归调用
-                          }else if(isClass(copy)=="Array"){
-                              result[key]=deepClone(copy);
-                          }else{
-                              result[key]=obj[key];
-                          }
-                      }
+                   var copy=obj[key];
+                   if(isClass(copy)=="Object"){
+                       result[key]=deepClone(copy);//递归调用
+                   }else if(isClass(copy)=="Array"){
+                       result[key]=deepClone(copy);
+                   }else{
+                       result[key]=obj[key];
+                   }
+                }
 
 （12）[js实现自定义contextmenu](http://www.jianshu.com/p/8c358b38734f)
 
